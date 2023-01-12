@@ -1,0 +1,33 @@
+.calc {
+    text-align: center;
+   
+    width :350px;
+    margin-top: auto;
+   margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    height: 40px;
+    margin: 5px 5px;
+    width: 50px;
+    font-size: 20px;
+    border-radius: 20px;
+    transition: 0.3s;
+    background-color: rgb(206, 206, 206);
+}
+
+button:hover {
+    background-color: rgb(62, 62, 62);
+    color: #fff;
+}
+
+input{
+    margin-top: 10px;
+    font-size:17px;
+    height: 30px;
+    width: 80%;
+    border: 2px solid black;
+    border-radius: 10px;
+}
